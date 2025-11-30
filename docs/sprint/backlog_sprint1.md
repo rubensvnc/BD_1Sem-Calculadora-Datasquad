@@ -8,22 +8,22 @@ Implementar as três primeiras funcionalidades da calculadora (Fibonacci pares a
 
 Checklist aplicado para todas as User Stories da Sprint:
 
-- ✅ User Stories têm título e descrição claros  
-- ✅ Critérios de aceitação definidos  
-- ✅ Estimativas realizadas pela equipe  
-- ✅ Sem dependências bloqueadoras  
-- ✅ Responsáveis atribuídos (team) 
-- ✅ Artefatos/documentos necessários disponíveis (ex.: código inicial, pasta docs, etc.)  
+- [x] User Stories têm título e descrição claros  
+- [x] Critérios de aceitação definidos  
+- [x] Estimativas realizadas pela equipe  
+- [x] Sem dependências bloqueadoras  
+- [x] Responsáveis atribuídos (team) 
+- [x] Artefatos/documentos necessários disponíveis (ex.: código inicial, pasta docs, etc.)  
 
 
 ##  Definition of Done (DoD)
 
 Checklist que garante que a User Story foi concluída com qualidade:
 
-- ✅ Código versionado no Git  
-- ✅ Branch criada e PR aberto para code review  
-- ✅ Testes implementados (mínimo 70% cobertura)  
-- ✅ Documentação atualizada (README, backlog, sprint)  
+- [x] Código versionado no Git  
+- [x] Branch criada e PR aberto para code review  
+- [x] Testes implementados (mínimo 70% cobertura)  
+- [x] Documentação atualizada (README, backlog, sprint)  
 
 
 ##  User Stories da Sprint
